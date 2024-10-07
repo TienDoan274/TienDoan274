@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a student at University of Information and Technology, majoring in Conputer Science.
 <!--  
 
 **TienDoan274/TienDoan274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
